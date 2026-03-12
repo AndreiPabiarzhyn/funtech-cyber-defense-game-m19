@@ -12,7 +12,7 @@ let boss = null
 let bossBullets = []
 
 const img = new Image()
-img.src = "../assets/boss.png"
+img.src = "./assets/boss.png"
 
 export function spawnBoss(){
 
