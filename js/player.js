@@ -9,7 +9,7 @@ size:70
 }
 
 const img = new Image()
-img.src = "../assets/shield.svg"
+img.src = "./assets/shield.svg"
 
 export function updatePlayer(){}
 
