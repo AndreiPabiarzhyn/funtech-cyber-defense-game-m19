@@ -7,8 +7,8 @@ export let gameState = "menu"
 export function addScore(n){
 score = Math.max(0, score + n)
 
-if(score > 3) level = 2
-if(score > 4) level = 3
+if(score > 10) level = 2
+if(score > 25) level = 3
 }
 
 export function damage(){
