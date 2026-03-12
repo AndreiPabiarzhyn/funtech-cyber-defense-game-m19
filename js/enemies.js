@@ -25,7 +25,7 @@ if(Math.random() < 0.01){
 let t = types[Math.floor(Math.random()*types.length)]
 
 let img = new Image()
-img.src="./assets/"+t.img
+img.src="assets/"+t.img
 
 enemies.push({
 x:Math.random()*650,
