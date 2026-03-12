@@ -8,7 +8,7 @@ const dust = []
 const shootingStars = []
 
 const planet = new Image()
-planet.src = "../assets/planet.png"
+planet.src = "./assets/planet.png"
 
 let orbitAngle = 0
 let ringAngle = 0
