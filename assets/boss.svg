@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+
+<defs>
+<radialGradient id="boss">
+<stop offset="0%" stop-color="#ff6b6b"></stop>
+<stop offset="100%" stop-color="#b91c1c"></stop>
+</radialGradient>
+</defs>
+
+<circle cx="100" cy="100" r="70" fill="url(#boss)"></circle>
+
+<circle cx="70" cy="80" r="12" fill="white"></circle>
+<circle cx="130" cy="80" r="12" fill="white"></circle>
+
+<circle cx="70" cy="80" r="6" fill="black"></circle>
+<circle cx="130" cy="80" r="6" fill="black"></circle>
+
+<path d="M70 130 Q100 160 130 130" stroke="white" stroke-width="6" fill="none"></path>
+
+</svg>
