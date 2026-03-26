@@ -4,6 +4,8 @@ Interactive browser game where kids learn cybersecurity basics through gameplay.
 
 Built as part of **FunTech Explorers – Module 19: "Cyber Detectives & Digital Safety"**.
 
+link: https://andreipabiarzhyn.github.io/funtech-cyber-defense-game-m19/
+
 ---
 
 ## 🚀 About the Project
